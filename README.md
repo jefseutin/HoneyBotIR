@@ -1,7 +1,7 @@
 # HoneyBotIR
 Dépôt basé sur l'Initation à la Recherche du cursus M2GL. Il sera consacré à l'article "HoneyBot: A Honeypot for Robotic System", encadré par M. Serge Chaumette. 
 
-# Modalité
+# Modalités
 
 La synthèse doit être rédigée en **anglais**, avec deux versions possibles (une en simple pagination et l'autre en double) au format **PDF**. La synthèse doit être composée de **4 à 5 pages** et doit donner envie de lire l'article.  
 Les slides doivent être en **anglais**.  
