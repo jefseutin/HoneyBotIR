@@ -6,11 +6,7 @@ Dépôt basé sur l'Initation à la Recherche du cursus M2GL. Il sera consacré 
 La synthèse doit être rédigée en **anglais**, avec deux versions possibles (une en simple pagination et l'autre en double) au format **PDF**. La synthèse doit être composée de **4 à 5 pages** et doit donner envie de lire l'article.  
 Les slides doivent être en **anglais**.  
 La soutenance peut être faite aussi bien en anglais qu'en français.  
-
-# Lien vers Overleaf
-
-https://fr.overleaf.com/project/5c00237b2d0ca2545d3728a7  
-
+ 
 # Contributeurs
 
 SEUTIN Jeffrey  
